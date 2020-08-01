@@ -3,7 +3,7 @@
  ### I'm a Husband 🤵, Father 👶 👶, Developer 💻, and Gamer 👾!
  - 🔨 I'm a fullstack web developer
  - 💪 Currently I'm working on my React skills :D 
- - 📖 Fun fact: I met my wife ❤️ in game of League of Legends 
+ - 📖 Fun fact: I met my wife ❤️ in a game of League of Legends 
 
 <img align="left" alt="o0pmitev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=o0pmitev&show_icons=true&hide_border=true&theme=merko" />
 
