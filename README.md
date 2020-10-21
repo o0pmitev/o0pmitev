@@ -35,6 +35,3 @@
 
 ***
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=o0pmitev&repo=swapi-planets-class-components&theme=merko)](https://github.com/o0pmitev/swapi-planets-class-components)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=o0pmitev&repo=card-sample&theme=merko)](https://github.com/o0pmitev/card-sample)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=o0pmitev&repo=disturbedTributePage&theme=merko)](https://github.com/o0pmitev/disturbedTributePage)
