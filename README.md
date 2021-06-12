@@ -1,20 +1,22 @@
- ## Hi there, I'm { Plamen } = [o0pmitev](https://www.pmitev.com/)
+[![banner for o0pmitev](https://github.com/o0pmitev/o0pmitev/raw/main/assets/header-banner.svg)](https://pmitev.com)
 
- ### I'm a Husband 🤵, Father 👶 👶, Developer 💻, and Gamer 👾!
- - 🔨 I'm a fullstack web developer
- - 💪 Currently I'm working on my React skills :D 
- - 📖 Fun fact: I met my wife ❤️ in a game of League of Legends 
+## Hi there, I'm { Plamen } = [o0pmitev](https://www.pmitev.com/)
+
+### I'm a Husband 🤵, Father 👶 👶, Developer 💻, and Gamer 👾!
+
+- 🔨 I'm a fullstack web developer
+- 💪 Currently I'm working on my React skills :D
+- 📖 Fun fact: I met my wife ❤️ in a game of League of Legends
 
 <img align="left" alt="o0pmitev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=o0pmitev&show_icons=true&hide_border=true&theme=merko" />
 
 ### Find me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.pmitev.com/)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/PlamenMitev4) 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/PlamenMitev4)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/plamen-mitev/)
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -33,5 +35,4 @@
 <br />
 <br />
 
-***
-
+---
