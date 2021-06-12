@@ -1,4 +1,4 @@
-[![banner for o0pmitev](https://github.com/o0pmitev/o0pmitev/raw/main/assets/header-banner.svg)](https://pmitev.com)
+[![banner for o0pmitev](https://github.com/o0pmitev/o0pmitev/raw/master/assets/header-banner.svg)](https://pmitev.com)
 
 ## Hi there, I'm { Plamen } = [o0pmitev](https://www.pmitev.com/)
 
