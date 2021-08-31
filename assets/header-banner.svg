@@ -175,25 +175,40 @@
 
     #Image {
       transform-origin: 400px 0;
-      animation: drop-image 2s 3s ease forwards;
-      animation-delay: 5s;
+      animation: drop-image 2s 3s ease forwards,
+        swing 5s 5s ease forwards infinite;
     }
 
     @keyframes drop-image {
       0% {
         transform: translateY(0) rotateZ(0deg);
-      }
+      } 
 
-      40% {
+      40% { 
         transform: translateY(0) rotateZ(55deg);
       }
 
-      70% {
-        transform: translateY(0) rotateZ(15deg);
+      70% {  
+        transform: translateY(0) rotateZ(27deg);
       }
 
       100% {
-        transform: translateY(0) rotateZ(35deg);
+        transform: translateY(0) rotateZ(40deg);
+      }
+    }
+
+    @keyframes swing {
+      0% {
+        transform: translateY(0) rotateZ(40deg);
+      }
+
+      50% {
+        transform: translateY(0) rotateZ(25deg);
+      }
+
+      100% {
+        transform: translateY(0) rotateZ(40deg);
+
       }
     }
   </style>
