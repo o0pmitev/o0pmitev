@@ -53,7 +53,7 @@ src="https://img.shields.io/github/followers/o0pmitev?logo=github&style=for-the-
 ### My GitHub Stats
 
 <p float="left">
-<a href="http://www.github.com/o0pmitev"><img src="https://github-readme-stats.vercel.app/api?username=o0pmitev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="o0pmitev's GitHub stats"/></a> &nbsp <a href="http://www.github.com/o0pmitev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=o0pmitev&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+<a href="http://www.github.com/o0pmitev"><img width="425" src="https://github-readme-stats.vercel.app/api?username=o0pmitev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="o0pmitev's GitHub stats"/></a> &nbsp <a href="http://www.github.com/o0pmitev"><img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=o0pmitev&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 </p>
 
 ### Support Me
