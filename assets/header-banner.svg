@@ -1,4 +1,216 @@
 <svg width="1508" height="500" viewBox="0 0 1508 500" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    #back-wave {
+      animation: back-wave linear 14s infinite;
+    }
+
+    #middle-wave {
+      animation: middle-wave ease-in-out 10s infinite;
+    }
+
+    #first-wave {
+      animation: first-wave ease-in-out 15s infinite;
+    }
+
+    @keyframes first-wave {
+      0% {
+        transform: translateY(0);
+      }
+
+
+
+      50% {
+        transform: translateY(-25%);
+      }
+
+
+
+      100% {
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes middle-wave {
+      0% {
+        transform: translateY(0) translateX(0);
+      }
+
+
+
+      50% {
+        transform: translateY(-25%);
+      }
+
+
+      100% {
+        transform: translateY(0) translateX(0);
+
+      }
+    }
+
+    @keyframes back-wave {
+      0% {
+        transform: translateY(0);
+      }
+
+      50% {
+        transform: translateY(-25%);
+      }f
+
+
+      100% {
+        transform: translateY(0);
+      }
+    }
+
+    #bubble1 {
+      transform: translateY(40%);
+      animation: b1 linear 14s infinite;
+      animation-delay: 1s;
+    }
+
+    @keyframes b1 {
+      0% {
+        transform: translateY(40%);
+      }
+
+      100% {
+        transform: translateY(-60%);
+        opacity: 0;
+
+      }
+    }
+
+    #bubble2 {
+      transform: translateY(15%);
+      animation: b2 linear 14s infinite;
+      transform-origin: center center;
+      animation-delay: 3s;
+    }
+
+    @keyframes b2 {
+      0% {
+        transform: translateY(15%);
+
+      }
+
+      100% {
+        transform: translateY(-70%);
+        opacity: 0;
+      }
+    }
+
+    #bubble3 {
+      transform: translateY(90%);
+      animation: b3 linear 14s infinite;
+      animation-delay: 4s;
+    }
+
+    @keyframes b3 {
+      0% {
+        transform: translateY(90%);
+
+      }
+
+      100% {
+        transform: translateY(-15%);
+        opacity: 0;
+      }
+    }
+
+    #bubble4 {
+      transform: translateY(80%);
+      animation: b4 linear 10s infinite;
+    }
+
+    @keyframes b4 {
+      0% {
+        transform: translateY(80%);
+
+      }
+
+      100% {
+        transform: translateY(-15%);
+        opacity: 0;
+      }
+    }
+
+    #bubble5 {
+      transform: translateY(100%);
+      animation: b4 linear 14s infinite;
+    }
+
+    @keyframes b5 {
+      0% {
+        transform: translateY(100%);
+
+      }
+
+      100% {
+        transform: translateY(0);
+        opacity: 0;
+      }
+    }
+
+    #mask-color {
+      fill: #3A4F23;
+      animation: change-color linear 1.5s infinite;
+
+    }
+
+    @keyframes change-color {
+      0% {
+        fill: #3A4F23;
+      }
+
+      50% {
+        fill: darkred;
+      }
+
+      100% {
+        fill: #3A4F23;
+      }
+    }
+
+    #Image {
+      transform-origin: 400px 0;
+      animation: drop-image 2s 3s ease forwards,
+        swing 5s 5s ease forwards infinite;
+    }
+
+    @keyframes drop-image {
+      0% {
+        transform: translateY(0) rotateZ(0deg);
+      }
+
+      40% {
+        transform: translateY(0) rotateZ(55deg);
+      }
+
+      70% {
+        transform: translateY(0) rotateZ(27deg);
+      }
+
+      100% {
+        transform: translateY(0) rotateZ(40deg);
+      }
+    }
+
+    @keyframes swing {
+      0% {
+        transform: translateY(0) rotateZ(40deg);
+      }
+
+      50% {
+        transform: translateY(0) rotateZ(25deg);
+      }
+
+      100% {
+        transform: translateY(0) rotateZ(40deg);
+
+      }
+    }
+  </style>
 <g id="GithubBanner" clip-path="url(#clip0_2_2)">
 <rect width="1508" height="500" fill="#222629"/>
 <g id="Image">
@@ -7,7 +219,7 @@
 </mask>
 <g mask="url(#mask0_2_2)">
 <rect id="about-me 1" x="315.599" y="59.491" width="479.885" height="475.408" fill="url(#pattern0)"/>
-<rect id="Rectangle 3" x="449" y="115" width="186.224" height="248" rx="25" fill="#3A4F23" fill-opacity="0.79"/>
+<rect id="mask-color" x="449" y="115" width="186.224" height="248" rx="25" fill="#3A4F23" fill-opacity="0.79"/>
 </g>
 </g>
 <g id="wave-container" clip-path="url(#clip1_2_2)">
@@ -46,7 +258,7 @@
 <path id="Vector_19" d="M62.6239 368.91C62.5322 368.719 62.5158 368.492 62.597 368.279C62.7538 367.866 63.2158 367.658 63.6289 367.815C70.4917 370.422 77.9134 370.106 84.5269 366.926C97.6959 360.593 103.258 344.728 96.9257 331.559C94.5453 326.608 90.7613 322.582 85.9827 319.914C85.5969 319.698 85.4588 319.211 85.6741 318.825C85.8895 318.44 86.3768 318.301 86.7626 318.517C91.8306 321.346 95.8435 325.616 98.3675 330.866C105.082 344.83 99.1842 361.653 85.2202 368.368C78.2074 371.74 70.3376 372.075 63.0607 369.311C62.8614 369.235 62.7096 369.088 62.6239 368.91Z" fill="#333333"/>
 </g>
 </g>
-<g id="bubbe2" clip-path="url(#clip3_2_2)">
+<g id="bubble2" clip-path="url(#clip3_2_2)">
 <g id="Group_2">
 <path id="Vector_20" d="M1349.38 423.838C1333.94 434.005 1329.67 454.761 1339.84 470.198C1350 485.634 1370.76 489.906 1386.2 479.739C1401.63 469.572 1405.91 448.816 1395.74 433.38C1385.57 417.943 1364.82 413.671 1349.38 423.838Z" fill="#2C3627"/>
 <path id="Vector_21" d="M1350.95 426.227C1336.84 435.525 1332.93 454.507 1342.23 468.624C1351.52 482.741 1370.51 486.648 1384.62 477.35C1398.74 468.052 1402.65 449.07 1393.35 434.953C1384.05 420.836 1365.07 416.929 1350.95 426.227Z" fill="#222629"/>
@@ -115,7 +327,7 @@
 <path id="Vector_76" d="M276.761 158.924C276.937 158.808 277.16 158.761 277.382 158.813C277.812 158.913 278.08 159.343 277.98 159.774C276.315 166.924 277.621 174.236 281.657 180.365C289.694 192.568 306.162 195.958 318.365 187.92C322.952 184.899 326.437 180.61 328.441 175.517C328.603 175.106 329.067 174.904 329.479 175.066C329.89 175.228 330.092 175.692 329.93 176.103C327.804 181.504 324.109 186.053 319.245 189.256C306.305 197.779 288.844 194.185 280.321 181.245C276.041 174.746 274.656 166.992 276.421 159.411C276.47 159.203 276.595 159.033 276.761 158.924Z" fill="#333333"/>
 </g>
 </g>
-<g id="bubble4_2" clip-path="url(#clip6_2_2)">
+<g id="bubble5" clip-path="url(#clip6_2_2)">
 <g id="Group_5">
 <path id="Vector_77" d="M767.837 2.30041C749.896 -2.14608 731.747 8.79365 727.301 26.735C722.854 44.6763 733.794 62.8253 751.735 67.2717C769.676 71.7182 787.825 60.7785 792.272 42.8372C796.718 24.8958 785.779 6.7469 767.837 2.30041Z" fill="#2C3627"/>
 <path id="Vector_78" d="M767.149 5.07716C750.741 1.01074 734.144 11.0154 730.077 27.4232C726.011 43.8309 736.016 60.4286 752.423 64.495C768.831 68.5614 785.429 58.5568 789.495 42.149C793.562 25.7412 783.557 9.14359 767.149 5.07716Z" fill="#222629"/>
