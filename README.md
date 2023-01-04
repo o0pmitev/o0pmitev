@@ -11,7 +11,7 @@ I'm a Husband 🤵, Father 👶 👶, software engineer💻, a gamer 👾. Game 
 * 🌍  I'm based in Sofia - Bulgaria
 * 🖥️  See my portfolio at [pmitev.com](http://pmitev.com)
 * ✉️  You can contact me at [pmitev.dev@gmail.com](mailto:pmitev.dev@gmail.com)
-* 🚀  I'm currently working on my CSS animation skills 💪 and growin my dev beard 🧔😅
+* 🚀  I'm currently working on my C# skills 💪 and growin my dev beard 🧔😅
 * 🤝  I'm open to collaborating on anything
 * ⚡  Fun fact: I met my wife ❤️ in a game of League of Legends
 
