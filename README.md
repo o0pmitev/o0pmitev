@@ -6,7 +6,7 @@ Hi 👋 My name is { Plamen } = o0pmitev
 Developer
 ---------
 
-I'm a Husband 🤵, Father 👶 👶, software engineer💻, a gamer 👾. Game dev wannabe 🎲, pixel art enthusiast 🎨. Dreamer 🗻.
+I'm a Husband 🤵, Father 👶 👶, software engineer💻, a gamer 👾. Game developer🎲, ex web developer, pixel art enthusiast 🎨. Dreamer 🗻.
 
 * 🌍  I'm based in Sofia - Bulgaria
 * 🖥️  See my portfolio at [mitev.dev](http://mitev.dev)
