@@ -1,4 +1,4 @@
-[![banner for o0pmitev](https://github.com/o0pmitev/o0pmitev/raw/master/assets/FINAL-BANNER.gif)](https://pmitev.com)
+[![banner for o0pmitev](https://github.com/o0pmitev/o0pmitev/raw/master/assets/pixel-art-banner.gif)](https://pmitev.com)
 
 Hi 👋 My name is { Plamen } = o0pmitev
 ======================================
