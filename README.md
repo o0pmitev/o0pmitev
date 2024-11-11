@@ -9,7 +9,7 @@ Developer
 I'm a Husband 🤵, Father 👶 👶, game developer💻, gamer 👾.Ex web developer, pixel art enthusiast 🎨. Dreamer 🗻.
 
 * 🌍  I'm based in Sofia - Bulgaria
-* 🖥️  See my portfolio at [mitev.dev](http://mitev.dev)
+* 🖥️  See my portfolio at [CV]([http://mitev.dev](https://o0pmitev.github.io/cv-plamen-mitev/))
 * ✉️  You can contact me at [pmitev.dev@gmail.com](mailto:pmitev.dev@gmail.com)
 * 🚀  I'm currently working on my C# skills 💪 and growin my dev beard 🧔😅
 * 🤝  I'm open to collaborating on anything
